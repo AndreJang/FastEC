@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyEC.iml" filepath="$PROJECT_DIR$/MyEC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ec/ec.iml" filepath="$PROJECT_DIR$/ec/ec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ec-core/ec-core.iml" filepath="$PROJECT_DIR$/ec-core/ec-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-anotation/lib-anotation.iml" filepath="$PROJECT_DIR$/lib-anotation/lib-anotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-compiler/lib-compiler.iml" filepath="$PROJECT_DIR$/lib-compiler/lib-compiler.iml" />
+    </modules>
+  </component>
+</project>
